@@ -1,5 +1,5 @@
 # SITE CONFIGURATION
-baseurl: "/adamshiner-site/"
+baseurl: "adamshiner-site"
 url: ""
 title: Adam Shiner # site's title
 description: "Brother - Nerd - Dude" # used by search engines
