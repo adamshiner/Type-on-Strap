@@ -1,34 +1,34 @@
 # SITE CONFIGURATION
 baseurl: ""
-url: "https://www.raymondshiner.com"
-title: Raymond Shiner # site's title
-description: "Computer Scientist & Philosopher" # used by search engines
+url: ""
+title: Adam Shiner # site's title
+description: "Brother - Nerd - Dude" # used by search engines
 
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:
   # Meta
-  title: Raymond Shiner # blog's title
+  title: Adam Shiner # blog's title
   avatar: assets/img/global.svg
   favicon: assets/img/global.svg
   gravatar: # Email MD5 hash
 
   # Header and footer text
   header_text: > #two or three lines to describe your site
-     <p><b>Computer Scientist - Philosopher - Student</b></p>
+     <p><b>Brother - Nerd - Dude</b></p>
   header_text_feature_image: assets/img/pexels/soft.jpeg
   footer_text: >
-   Maintained by Raymond Shiner - Constructed using Jekyll theme "Type on Strap"
+   I have a website - pretty neat
 
   # Icons
   rss: true  # Make sure you created a feed.xml with feed.xml layout
-  email_address: "raymondshiner@gmail.com" # Full email address, e.g. "sam@example.com"
+  email_address: "ajshiner52@gmail.com" # Full email address, e.g. "sam@example.com"
   behance:
   bitbucket:
   dribbble:
   facebook: 
   flickr:
   gitlab:
-  github: "raymondshiner"
+  github: "adamshiner"
   google_plus:
   instagram:
   keybase:
